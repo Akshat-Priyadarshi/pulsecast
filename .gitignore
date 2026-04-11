@@ -1,0 +1,27 @@
+# Environment variables — NEVER commit the real .env
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Log and output files
+*.log
+output.txt
+debug.log
+
+# Data outputs (keep only the source CSV)
+data/*.log
