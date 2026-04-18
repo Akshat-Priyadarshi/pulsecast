@@ -200,5 +200,3 @@ With additional time, the following enhancements would be prioritised:
 
 This project is licensed under the **Apache License 2.0**.  
 See [LICENSE](LICENSE) for details.
-
-All commits are signed off under the Developer Certificate of Origin (DCO). No need to change any text written in this README.md file.
